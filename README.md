@@ -16,5 +16,5 @@ by D. Heslop (david.heslop@anu.edu.au), E.J. Rohling, G. L. Foster, & J. Yu, sub
 #### Jupyter notebooks
 Notebooks should be run in the following order with each one allowed to complete its calculations before the next is run.
 - ```NB1 - Create time series.ipynb```: Loads the data and creates the case study time series
-- ```NB2 - Perform EIV regression```: Perform the EIV analysis and save the results (must be run for the 2ppm and 20ppm scenarios separately)
+- ```NB2 - Perform EIV regression```: Perform the EIV analysis and save the results (must be run for the 2 ppm and 20 ppm scenarios separately)
 - ```NB3 - Perform EIV regression```: Plot the case study results
