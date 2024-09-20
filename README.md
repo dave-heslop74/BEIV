@@ -15,6 +15,11 @@ by D. Heslop (david.heslop@anu.edu.au), E.J. Rohling, G. L. Foster, & J. Yu, sub
 - ```500kyrCO2.csv```: CenCO2PIP ln(CO2) data (500kyr windows)
 - ```500kyrTemp.csv```: CenCO2PIP ΔGMST data (500kyr windows)
 
+CenCO2PIP data files are from:
+The Cenozoic CO2 Proxy Integration Project (CenCO2PIP) Consortium,Toward a Cenozoic history of atmospheric CO2.Science382,eadi5177(2023).DOI:10.1126/science.adi5177
+which can be accessed via:
+https://www.paleo-co2.org/
+
 #### Jupyter notebooks
 - ```2024PA004880 - MLE example.ipnb```: Demonstration of maximum likelihood estimation (recreates Figure 2).
 - ```2024PA004880 - BIV example.ipnb```: Demonstration of Bayesian EIV estimation (recreates Figure 3).
