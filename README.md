@@ -1,7 +1,7 @@
 #### Python code demonstrating Bayesian errors-in-variables regression estimation of specific climate sensitivity
 
-The provided Jupyter notebooks recreate the casy study example given in *Bayesian errors-in-variables estimation of specific climate sensitivity*
-by D. Heslop (david.heslop@anu.edu.au), E.J. Rohling, G. L. Foster, & J. Yu, submitted.
+The provided Jupyter notebooks recreate the case study examples given in *Bayesian errors-in-variables estimation of specific climate sensitivity*
+by D. Heslop (david.heslop@anu.edu.au), E.J. Rohling, G. L. Foster, & J. Yu.
 
 #### Required packages
 - ```Numpy```: https://numpy.org/
@@ -16,8 +16,11 @@ by D. Heslop (david.heslop@anu.edu.au), E.J. Rohling, G. L. Foster, & J. Yu, sub
 - ```500kyrTemp.csv```: CenCO2PIP ΔGMST data (500kyr windows)
 
 CenCO2PIP data files are from:
+
 The Cenozoic CO2 Proxy Integration Project (CenCO2PIP) Consortium,Toward a Cenozoic history of atmospheric CO2.Science382,eadi5177(2023).DOI:10.1126/science.adi5177
-which can be accessed via:
+
+and can be accessed via:
+
 https://www.paleo-co2.org/
 
 #### Jupyter notebooks
