@@ -25,5 +25,5 @@ https://www.paleo-co2.org/
 
 #### Jupyter notebooks
 - ```2024PA004880 - MLE example.ipnb```: Demonstration of maximum likelihood estimation (recreates Figure 2).
-- ```2024PA004880 - BIV example.ipnb```: Demonstration of Bayesian EIV estimation (recreates Figure 3).
-- ```2024PA004880 - Eocene example.ipynb```: Eocene case study (recreates Figure 4).
+- ```2024PA004880 - BIV example.ipnb```: Demonstration of Bayesian EIV estimation (recreates Figure 4).
+- ```2024PA004880 - Eocene example.ipynb```: Eocene case study (recreates Figures 5 and 6).
