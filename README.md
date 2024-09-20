@@ -17,7 +17,7 @@ by D. Heslop (david.heslop@anu.edu.au), E.J. Rohling, G. L. Foster, & J. Yu.
 
 CenCO2PIP data files are from:
 
-The Cenozoic CO2 Proxy Integration Project (CenCO2PIP) Consortium,Toward a Cenozoic history of atmospheric CO2.Science382,eadi5177(2023).DOI:10.1126/science.adi5177
+The Cenozoic CO2 Proxy Integration Project (CenCO2PIP) Consortium (2023). Toward a Cenozoic history of atmospheric CO2. Science, 382, eadi5177, doi:10.1126/science.adi5177.
 
 and can be accessed via:
 
